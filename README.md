@@ -1,4 +1,4 @@
-Coding Dojo Sessions @ Murex
+Coding Dojo Sessions @ Murex SAS
 
 <pre>
    _____          _ _             _____        _       
